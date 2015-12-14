@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "TV-LP51-Devices/device_lge_g4-common",
+    "target_path": "device/lge/g4-common",
+    "branch": "mm6.0"
+  },
+  {
+    "repository": "CyanogenMod/android_kernel_lge_msm8992",
+    "target_path": "kernel/lge/msm8992",
+    "branch": "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "branch": "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_sony_timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "branch": "cm-13.0"
+  },
+ {
+  "repository": "TheMuppets/proprietary_vendor_lge",
+  "target_path": "vendor/lge",
+  "branch":      "cm-13.0"
+ }
+]
